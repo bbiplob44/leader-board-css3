@@ -32,6 +32,58 @@ hr {
     margin-bottom: 30px;
 }
 
+/* <!-- Navigation Bar --> */
+.navigation {
+    width: 1345px;
+    height: 94px;
+    background-color: #562EFF;
+    margin-bottom: 40px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 500;
+    margin-right: 60px;
+
+
+}
+
+.nav-banner {
+    display: flex;
+    align-items: center;
+    margin-left: 210px;
+}
+
+.idea {
+    margin-left: 10px;
+}
+
+nav .nav-thumbnail img {
+    width: 40.424px;
+    height: 51px;
+    display: flex;
+
+}
+
+nav .nav-buttons {
+    margin-right: 145px;
+    align-items: center;
+    display: flex;
+}
+
+nav .nav-buttons a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 15px;
+
+
+}
+
 /* top players style  */
 .section-title {
     color: #562EFF;
